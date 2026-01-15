@@ -3,19 +3,19 @@
 }
 
 body{
-    background-color: green;
+    background-color: white;
     margin:0;
     padding:0;
 }
 
 .tarolo, .fejlec, .tartalom, .lablec {
-    border: 1px solid green;
+    border: 1px solid darkblue;
     padding: 10px;
-    color: green;
+    color: darkblue;
 }
 
 .tarolo {
-    background-color: black;
+    background-color: white;
     width: 80%;
     max-width: 1000px;
     margin: auto;
@@ -23,14 +23,14 @@ body{
 
 img {
     width: 100%;
-    border: 1ps solid green;
+    border: 1ps solid darkblue;
     border-radius:10px;
     padding: 10px;
 }
 
 .kep {
     width: 100%;
-    border: 5px solid green;
+    border: 5px solid darkblue;
     border-radius:10px;
     padding: 10px;
 }
